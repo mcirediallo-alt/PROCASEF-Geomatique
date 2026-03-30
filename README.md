@@ -15,7 +15,7 @@ Dans le cadre du projet PROCASEF j'ai exercé en tant que Géomaticienne  Ma mis
 
 ### 📊 Livrables et Affichage sur le terrain
 **Exemple de carte parcellaire générée par Atlas pour affichage public :**
-![Carte Parcellaire Atlas](Carte_Atlas_Fonciere.png)
+![Carte Parcellaire Atlas](Carte_Atlas_Foncière.pngpng.png)
 
 **Réunion de sensibilisation et affichage des plans aux populations :**
-![Affichage Population](p1.jfif)
+![Affichage Population](p2.jfif)
